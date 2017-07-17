@@ -13,6 +13,7 @@
 		18D5DD3B1F1D3BD10097D60E /* StarWarsApi.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 18D5DD391F1D3BD10097D60E /* StarWarsApi.xcdatamodeld */; };
 		18D5DD3D1F1D3BD10097D60E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18D5DD3C1F1D3BD10097D60E /* Assets.xcassets */; };
 		18D5DD401F1D3BD10097D60E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18D5DD3E1F1D3BD10097D60E /* LaunchScreen.storyboard */; };
+		18D5DD481F1D5E250097D60E /* FilmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D5DD471F1D5E250097D60E /* FilmViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		18D5DD3C1F1D3BD10097D60E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18D5DD3F1F1D3BD10097D60E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18D5DD411F1D3BD10097D60E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18D5DD471F1D5E250097D60E /* FilmViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilmViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				18D5DD321F1D3BD10097D60E /* AppDelegate.swift */,
 				18D5DD341F1D3BD10097D60E /* PeopleViewController.swift */,
+				18D5DD471F1D5E250097D60E /* FilmViewController.swift */,
 				18D5DD361F1D3BD10097D60E /* Main.storyboard */,
 				18D5DD3C1F1D3BD10097D60E /* Assets.xcassets */,
 				18D5DD3E1F1D3BD10097D60E /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			files = (
 				18D5DD351F1D3BD10097D60E /* PeopleViewController.swift in Sources */,
 				18D5DD3B1F1D3BD10097D60E /* StarWarsApi.xcdatamodeld in Sources */,
+				18D5DD481F1D5E250097D60E /* FilmViewController.swift in Sources */,
 				18D5DD331F1D3BD10097D60E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
