@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		18D5DD331F1D3BD10097D60E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D5DD321F1D3BD10097D60E /* AppDelegate.swift */; };
-		18D5DD351F1D3BD10097D60E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D5DD341F1D3BD10097D60E /* ViewController.swift */; };
+		18D5DD351F1D3BD10097D60E /* PeopleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D5DD341F1D3BD10097D60E /* PeopleViewController.swift */; };
 		18D5DD381F1D3BD10097D60E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18D5DD361F1D3BD10097D60E /* Main.storyboard */; };
 		18D5DD3B1F1D3BD10097D60E /* StarWarsApi.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 18D5DD391F1D3BD10097D60E /* StarWarsApi.xcdatamodeld */; };
 		18D5DD3D1F1D3BD10097D60E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18D5DD3C1F1D3BD10097D60E /* Assets.xcassets */; };
@@ -18,7 +18,7 @@
 /* Begin PBXFileReference section */
 		18D5DD2F1F1D3BD10097D60E /* StarWarsApi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StarWarsApi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18D5DD321F1D3BD10097D60E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		18D5DD341F1D3BD10097D60E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		18D5DD341F1D3BD10097D60E /* PeopleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeopleViewController.swift; sourceTree = "<group>"; };
 		18D5DD371F1D3BD10097D60E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		18D5DD3A1F1D3BD10097D60E /* StarWarsApi.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = StarWarsApi.xcdatamodel; sourceTree = "<group>"; };
 		18D5DD3C1F1D3BD10097D60E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,7 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				18D5DD321F1D3BD10097D60E /* AppDelegate.swift */,
-				18D5DD341F1D3BD10097D60E /* ViewController.swift */,
+				18D5DD341F1D3BD10097D60E /* PeopleViewController.swift */,
 				18D5DD361F1D3BD10097D60E /* Main.storyboard */,
 				18D5DD3C1F1D3BD10097D60E /* Assets.xcassets */,
 				18D5DD3E1F1D3BD10097D60E /* LaunchScreen.storyboard */,
@@ -140,7 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18D5DD351F1D3BD10097D60E /* ViewController.swift in Sources */,
+				18D5DD351F1D3BD10097D60E /* PeopleViewController.swift in Sources */,
 				18D5DD3B1F1D3BD10097D60E /* StarWarsApi.xcdatamodeld in Sources */,
 				18D5DD331F1D3BD10097D60E /* AppDelegate.swift in Sources */,
 			);
